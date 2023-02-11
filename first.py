@@ -1,4 +1,4 @@
 def newfun ():
     pass
 
-print('Hello world')
+print(input())
